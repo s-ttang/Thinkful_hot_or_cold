@@ -11,7 +11,7 @@ $(document).ready(function(){
 	var answer 		= '';
 	var guessRecord = [];
 	var state 	  	= [];
-	var max		  	= 200;
+	var max		  	= 130;
 	var min 	  	= 1;
 	
 /*--Helper Functions--*/
