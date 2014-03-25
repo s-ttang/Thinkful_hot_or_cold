@@ -60,13 +60,13 @@ html, body{
 		padding: 		20px;
 		border:  		#eee 1px solid;
 		border-radius: 	10px;
-		font: 	 		48px/72px 'Lobster', Georgia, Times, serif;
+		font: 	 		48px/72px Georgia, Times, serif;
 		color:	 		#fff;
 		background: 	rgb(0, 0, 0) transparent; /* fallback */
 		background: 	rgba(0, 0, 0, 0.15); /* nice browsers */
 	}
 	p, input{
-		font: 			24px/36px 'Cabin', Helvetica, Arial, sans-serif;
+		font: 			24px/36px Helvetica, Arial, sans-serif;
 		letter-spacing:  2px;
 	}
 	div.game{
